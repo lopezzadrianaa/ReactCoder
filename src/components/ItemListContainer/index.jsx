@@ -1,4 +1,4 @@
-import './estilos.css';
+import  '../Styles/estilos.css';
 
 export const ItemListContainer = ({gretting}) => {
     return(

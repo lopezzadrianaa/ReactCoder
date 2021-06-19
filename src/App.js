@@ -2,9 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { NavBarComponent } from './components/NavbarComponent';
-import { CartWidget } from './components/NavbarComponent/CartWidget';
 import { ItemListContainer } from './components/ItemListContainer';
-import './components/NavbarComponent/estilos.css'
+import './components/Styles/estilos.css';
 
 
 
@@ -20,6 +19,7 @@ function App() {
     
     <div className="App">
      <NavBarComponent/>
+
      <div className="container-cards">
         <div className="container">
           <div className="row">

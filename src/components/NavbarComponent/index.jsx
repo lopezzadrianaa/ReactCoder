@@ -1,6 +1,5 @@
-import { CartWidget } from './CartWidget';
-import './estilos.css';
-
+import  '../Styles/estilos.css';
+import { CartWidget } from '../CartWidget';
 
 
 export const NavBarComponent = () => {

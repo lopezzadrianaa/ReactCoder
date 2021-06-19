@@ -54,3 +54,9 @@
 .container-cards {
     margin-top: 190px;
 }
+
+.contenedor {
+    width: 500px;
+    height: 500px;
+    background-color: black;
+}
