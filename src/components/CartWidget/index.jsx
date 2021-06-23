@@ -5,6 +5,9 @@ import  '../Styles/estilos.css';
 
 export const CartWidget = () => {
     return(
+        <>
         <FontAwesomeIcon icon={faShoppingCart} className="iconoCarro"/>
+        <span>0</span>
+        </>
     )
 }
